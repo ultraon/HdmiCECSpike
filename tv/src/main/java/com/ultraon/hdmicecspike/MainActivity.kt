@@ -18,7 +18,7 @@ import androidx.fragment.app.FragmentActivity
 
 
 /**
- * Loads [MainFragment].
+ * Loads Main Screen.
  */
 class MainActivity : FragmentActivity() {
 
